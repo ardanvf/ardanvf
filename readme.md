@@ -11,11 +11,11 @@
 
 ```kotlin
 object profile {
- val name = "Hendra"
- val birth = "25th-august"
+ val name = "Ardan"
+ val birth = "9th-December"
  
- val primarySkillset = listOf("Front-End", "Web developer")
- val languages = listOf("Python", "PHP")
- val learning = "Flutter"
+ val primarySkillset = listOf("Android Developer")
+ val languages = listOf("Kotlin")
+ val learning = "Android Developer"
 }
 ```
